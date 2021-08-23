@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a) 👋
+### Olá, seja bem-vindo(a)
 
 ### Veja também minhas redes sociais...
 
