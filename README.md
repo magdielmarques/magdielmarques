@@ -1,6 +1,6 @@
-### Hey there,
+### 😄 Hey there,
 
-### 😄 I’m currently learning english, typescript, react and react native.
+### ⚡ I’m currently learning English, Typescript, React Js and React Native.
 ### You can find me in...
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
