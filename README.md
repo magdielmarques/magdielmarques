@@ -1,6 +1,6 @@
 ### 😄 Hey there,
 
-### ⚡ I’m currently focused on improving: English, Typescript, React Js and React Native.
+### ⚡ I’m currently focused on Typescript, React Js and React Native.
 ### You can find me...
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
