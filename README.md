@@ -9,6 +9,9 @@
 [instagram]: https://instagram.com/_magdielmarques
 [linkedin]: https://www.linkedin.com/in/magdiel-marques-a2b1251b5/
 
+💻 My stack:
+  HTML5 CSS JavaScript Node.js React
+
 <!--
 **magdielmarques/magdielmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
