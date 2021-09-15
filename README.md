@@ -2,13 +2,13 @@
 
 ### I’m currently focused on Typescript, React Js and React Native.
 ### You can find me...
+<div>
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://instagram.com/_magdielmarques
-[linkedin]: https://www.linkedin.com/in/magdiel-marques-a2b1251b5/
-
+  [instagram]: https://instagram.com/_magdielmarques
+  [linkedin]: https://www.linkedin.com/in/magdiel-marques-a2b1251b5/
+<div>
 
   <div>
     <img src="https://camo.githubusercontent.com/7659585b1e4c20c318f170a540852bfdb675907e3f70d05dc29cf5bde1081250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73"> <img src="https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343">
