@@ -9,8 +9,8 @@
 [instagram]: https://instagram.com/_magdielmarques
 [linkedin]: https://www.linkedin.com/in/magdiel-marques-a2b1251b5/
 
-💻 My stack:
-  HTML5 CSS JavaScript Node.js React
+🛠
+<img src="https://camo.githubusercontent.com/7659585b1e4c20c318f170a540852bfdb675907e3f70d05dc29cf5bde1081250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73">
 
 <!--
 **magdielmarques/magdielmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
