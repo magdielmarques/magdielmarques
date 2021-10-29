@@ -1,7 +1,7 @@
 ## Olá, eu sou Magdiel Marques Macedo 
 💻 Focado no front-end
 <br>
-📚 Estudando Typescript e React
+
 ##
 <div>
   <a href="https://github.com/magdielmarques">
