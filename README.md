@@ -1,5 +1,5 @@
 ## Olá, eu sou Magdiel Marques Macedo 
-💻 Focado no aprendizado de frontend e backend utilizando Javascript.
+💻 Focado no aprendizado de front-end e back-end utilizando Javascript.
 <br>
 
 ##
