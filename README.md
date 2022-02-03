@@ -1,5 +1,5 @@
-## Olá, eu sou Magdiel Marques Macedo 
-💻 Focado no aprendizado de front-end e back-end utilizando Javascript.
+## Hey there, i'm Magdiel Marques Macedo 
+💻 I'm focusing on being a Full Stack JS Developer.
 <br>
 
 ##
@@ -17,4 +17,6 @@
   
    <img align="center" alt="Magdiel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Magdiel-VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+   <img align="center" alt="Magdiel-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+   <img align="center" alt="Magdiel-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
