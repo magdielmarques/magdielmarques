@@ -1,6 +1,6 @@
 ## Hey there, i'm Magdiel Marques Macedo 
 💻 I'm focused on becoming a full-stack JS Developer.
-
+📌 To me understand basic programming concepts is essential, then i do it everyday.
 <br>
 
 ##
