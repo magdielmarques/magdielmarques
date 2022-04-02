@@ -1,5 +1,6 @@
 ## Hey there, i'm Magdiel Marques Macedo 
-💻 I'm focusing on being a Full-stack JS Developer.
+💻 I'm focused on becoming a full-stack JS Developer.
+
 <br>
 
 ##
