@@ -1,8 +1,6 @@
 ## Hey there, i'm Magdiel Marques Macedo 
-💻 I'm focused on becoming a full-stack JS Developer | To me understand basic programming concepts is essential.
-<br>
+[comment]: < 💻 I'm focused on becoming a full-stack JS Developer | To me understand basic programming concepts is essential. >
 
-##
 <div>
   <a href="https://github.com/magdielmarques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magdielmarques&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
