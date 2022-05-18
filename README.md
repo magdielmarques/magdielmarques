@@ -1,4 +1,4 @@
-## Hey there, i'm Magdiel Marques Macedo 
+## Welcome to my profile
 [comment]: < 💻 I'm focused on becoming a full-stack JS Developer | To me understand basic programming concepts is essential. >
 
 <div>
