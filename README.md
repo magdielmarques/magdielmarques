@@ -30,4 +30,7 @@
    <img align="center" alt="Magdiel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    
    <img align="center" alt="Magdiel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
+  <br/>
+  <h5> I've been studying React, React Native and another useful technologies...</h3>
 </div>
