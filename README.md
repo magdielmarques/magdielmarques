@@ -1,5 +1,5 @@
 <div align="center">
-<h1> welcome to my profile </h3>
+<h1> Bem-vindo ao meu perfil! </h3>
 <br/>
   <a href="https://github.com/magdielmarques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magdielmarques&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
